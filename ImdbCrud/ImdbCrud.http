@@ -1,0 +1,6 @@
+@ImdbCrud_HostAddress = http://localhost:5147
+
+GET {{ImdbCrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
